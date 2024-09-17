@@ -5,7 +5,7 @@ Shipaton is committed to providing quality services to you and this policy outli
 We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.
 A copy of the Australian Privacy Principles may be obtained from the website of The Office of the Australian Information Commissioner at https://www.oaic.gov.au/.
 ### What is Personal Information and why do we collect it?
-Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect includes names, addresses, email addresses, phone and facsimile numbers.
+Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect includes names, addresses, email addresses, real-time location, phone and facsimile numbers.
 This Personal Information is obtained in many ways including by email, via our mobile app, from other publicly available sources, and from third parties. We don’t guarantee website links or policy of authorised third parties.
 We collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time by contacting us in writing.
 When we collect Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it.
@@ -21,6 +21,9 @@ Disclosure of Personal Information
 Your Personal Information may be disclosed in a number of circumstances including the following:
 •	Third parties where you consent to the use or disclosure; and
 •	Where required or authorised by law.
+
+## Determining and Sharing Location
+This mobile application may collect your location data to provide certain features and services. Whenever you open, use or interact with the app, we will use the location data from your mobile device to deliver content or recommendations tailored to your specific location. The information is not shared with others. If you have the background location turned on, the app, from time to time, will make use of your location to enhance the app's functionality even if you are not directly interacting with the application.
 
 ## Security of Personal Information
 Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorized access, modification or disclosure.
